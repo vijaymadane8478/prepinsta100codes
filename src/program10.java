@@ -10,7 +10,7 @@ public class program10 {
 
         for (int i = num1; i <= num2; i++) {
             if (isPrime(i)) {
-                System.out.println(i);
+                System.out.print(i+" ");
             }
         }
     }
